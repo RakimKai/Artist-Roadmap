@@ -1,7 +1,7 @@
 # Spotify Artist Roadmap Web App
 
 ## Overview
-This web app is built using React and interfaces with the Spotify API. The main functionality of the application is to allow users to input an artist's name and retrieve a roadmap of their albums. Clicking on any particular album will display its tracklist. As a personal challenge, the styling and layout for this project were created using TailwindCSS.
+This web app is built using React and interfaces with the Spotify API. The main functionality of the application is to allow users to input an artist's name and retrieve a roadmap of their albums. Clicking on any particular album will display its tracklist. The styling and layout for this project were created using TailwindCSS.
 
 ## Features
 - **Search Artist**: Input an artist's name to fetch their album roadmap.
@@ -12,7 +12,7 @@ This web app is built using React and interfaces with the Spotify API. The main 
 
 ### Prerequisites
 
-- Node.js and npm (latest versions)
+- npm
 - A Spotify developer account and credentials (Client ID & Client Secret)
 
 ### Installation
